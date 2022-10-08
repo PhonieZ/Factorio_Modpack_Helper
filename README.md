@@ -17,10 +17,10 @@ file in the bin folder if on mac), and an input and output txt
 file will be created.
 
 Next, paste all the links to the mods you want to add to your
-modpack in the input file. If you want to mark a mod as 
-incompatible or as optional, you should add a question mark in 
-front of the link to mark it as optional, or an exclamation mark 
-in front of the link to mark it as incompatible.
+modpack in the input file. If you want to mark a mod as optional, 
+you should add a question mark in front of the link to mark it as 
+optional, and if you want to mark it as incompatible, you should 
+an exclamation mark in front of the link to mark it as incompatible.
 
 Finally, now run the program again, and in the output file an array
 of dependencies should be generated for you to put in your modpack's

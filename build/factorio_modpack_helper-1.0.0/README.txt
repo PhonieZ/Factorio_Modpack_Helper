@@ -1,3 +1,6 @@
+Note: Go to github repo readme for a better readme:
+https://github.com/PhonieZ/Factorio_Modpack_Helper/blob/main/README.md
+
 # Factorio Modpack Helper
 This is a program that helps in making modpacks for Factorio.
 
